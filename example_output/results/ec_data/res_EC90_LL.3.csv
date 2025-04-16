@@ -1,0 +1,5 @@
+virus,treatment,assay,reach_EC90,EC90,EC90_error,model
+K227S,mAb,Neutralization,Weak effect (>0.4),NA,NA,LL.3
+K650Y,mAb,Neutralization,yes,12204.926673501943,2606.9244859209794,LL.3
+K723E,mAb,Neutralization,yes,11339.542732726855,2347.6412391280555,LL.3
+WT,mAb,Neutralization,yes,29567.293641713928,10445.943540400163,LL.3

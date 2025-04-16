@@ -1,0 +1,5 @@
+virus,treatment,assay,reach_EC50,EC50,EC50_error,model
+K227S,mAb,Neutralization,Weak effect (>0.4),NA,NA,LL.3
+K650Y,mAb,Neutralization,yes,3002.1309966762424,270.1271990156661,LL.3
+K723E,mAb,Neutralization,yes,2870.4206385584916,245.13866575852734,LL.3
+WT,mAb,Neutralization,yes,4666.044212641044,794.1920652085043,LL.3
